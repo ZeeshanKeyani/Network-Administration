@@ -182,6 +182,4 @@ With this **one shot subnetting guide**, you now have everything:
 Practice a few problems daily, and subnetting will become your **superpower in networking exams and jobs**.
 ```
 
----
 
-👉 I can now save this as a ready-to-download `.md` file for you. Do you want me to generate the **downloadable Markdown file**?
