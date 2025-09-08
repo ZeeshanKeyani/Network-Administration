@@ -182,8 +182,6 @@ With this **one-shot guide**, you now know:
 - VLSM & IPv6  
 
 
----
-
 ## ✍️ Author
 
 > 👨‍💻 **Written by: Zeeshan Keyani**  
