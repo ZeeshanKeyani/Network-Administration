@@ -3,7 +3,7 @@
 ## 📌 Meta Description
 Learn subnetting in one shot with this complete A–Z guide. Step-by-step explanations, subnet mask cheat sheets, CIDR notation, VLSM, and solved examples. Perfect for CCNA, networking interviews, and IT pros.
 
----
+
 
 ## 🏆 Introduction: Why Subnetting Matters
 In the world of networking, **subnetting** is one of the most feared yet most important topics. Whether you are preparing for **CCNA**, **CEH**, or working as a network engineer, mastering subnetting is a must.  
@@ -12,7 +12,7 @@ But here’s the truth: subnetting is **not rocket science**. Once you learn a f
 
 This guide will give you **subnetting in one shot** — from **basics to advanced** — with **step-by-step explanations, tables, GIF-based visual guides, and solved examples**.  
 
----
+
 
 ## ⚡ What is Subnetting?
 Subnetting is the process of dividing a large IP network into smaller, manageable sub-networks (subnets).  
@@ -24,7 +24,6 @@ Subnetting is the process of dividing a large IP network into smaller, manageabl
 
 ![Subnetting GIF Placeholder](subnetting-split.gif)
 
----
 
 ## 📚 Basics of IP Addressing
 - IPv4 = **32 bits** (4 octets, each 8 bits).  
@@ -34,7 +33,7 @@ Subnetting is the process of dividing a large IP network into smaller, manageabl
 
 ![IP Addressing GIF](ip-bits.gif)
 
----
+
 
 ## 🏷️ IP Address Classes (Legacy Knowledge)
 Although CIDR has replaced classful addressing, classes still help in understanding.  
@@ -48,7 +47,7 @@ Private IP ranges (used inside LANs):
 - 172.16.0.0 – 172.31.255.255  
 - 192.168.0.0 – 192.168.255.255  
 
----
+
 
 ## 🧩 Subnet Mask and CIDR
 - Subnet mask defines which part is **network** and which part is **host**.  
