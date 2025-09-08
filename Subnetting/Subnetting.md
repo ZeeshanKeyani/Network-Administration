@@ -182,3 +182,11 @@ With this **one-shot guide**, you now know:
 - VLSM & IPv6  
 
 
+---
+
+## ✍️ Author
+
+> 👨‍💻 **Written by: Zeeshan Keyani**  
+> ![Author Badge](https://img.shields.io/badge/Author-Zeeshan%20Keyani-blue?style=for-the-badge)  
+> Passionate about Networking, Cybersecurity, and DevOps 🚀  
+> Follow for more guides on **CCNA, CEH, and IT skills mastery**.  
