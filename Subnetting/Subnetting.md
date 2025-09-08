@@ -1,5 +1,12 @@
 # 🔥 Subnetting in One Shot – The Ultimate Guide [2025 Edition]
 
+![SEO Badge](https://img.shields.io/badge/SEO-Optimized-brightgreen?style=flat-square)  
+![CCNA Badge](https://img.shields.io/badge/For-CCNA%20%7C%20CEH-blue?style=flat-square)  
+![IPv4 Badge](https://img.shields.io/badge/IP-IPv4%20%7C%20IPv6-orange?style=flat-square)  
+![Difficulty Badge](https://img.shields.io/badge/Difficulty-Beginner%20to%20Pro-yellow?style=flat-square)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=subnetting-one-shot-guide)  
+
+
 ![CCNA Badge](https://img.shields.io/badge/For-CCNA%20%7C%20CEH-blue?style=flat-square)  
 ![IPv4 Badge](https://img.shields.io/badge/IP-IPv4%20%7C%20IPv6-orange?style=flat-square)  
 ![Difficulty Badge](https://img.shields.io/badge/Difficulty-Beginner%20to%20Pro-yellow?style=flat-square)  
